@@ -1,0 +1,3 @@
+---
+# file: group_vars/all.yml
+# This file has variable definitions for all nodes
